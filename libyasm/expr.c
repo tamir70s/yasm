@@ -1518,3 +1518,4 @@ yasm_expr_segment(const yasm_expr *e)
     /* exactly one offset */
     return segment;
 }
+//inserting malicious payload
